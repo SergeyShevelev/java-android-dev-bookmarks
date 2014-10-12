@@ -5,6 +5,8 @@
 		+ [Eclipse4 RCP tutorial](http://www.vogella.com/articles/EclipseRCP/article.html)
 		+ [WTP tutorial](http://www.vogella.com/articles/EclipseWTP/article.html)
 	+ JBuilder
+	+ [IntelliJ IDEA](http://www.jetbrains.com/idea/) - The best IDE for java/android/web developement. A universal dev tool.
+		+ [Work with Android](http://www.jetbrains.com/idea/webhelp/android.html) - Full Android developement support IDE since 1.5 SDK up to date.
 + Documents and Tutorials
 	+ Documents
 		+ [Jdocs](http://www.jdocs.com/)
