@@ -14,6 +14,7 @@
 	+ Documents
 		+ [Jdocs](http://www.jdocs.com/)
 		+ [Oracle Java document](http://www.oracle.com/technetwork/documentation/index.html#java)
+		+ [The root Android dev resource](https://developer.android.com)
 	+ Tutorials
 		+ [Vogella](http://www.vogella.com/)
 		+ [Java-source](http://java-source.net/)
