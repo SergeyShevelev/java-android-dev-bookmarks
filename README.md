@@ -6,9 +6,9 @@
 		+ [WTP tutorial](http://www.vogella.com/articles/EclipseWTP/article.html)
 	+ JBuilder
 	+ [IntelliJ IDEA](http://www.jetbrains.com/idea/) - The best IDE for java/android/web developement. A universal dev tool.
-		+ [Work with Android](http://www.jetbrains.com/idea/webhelp/android.html) - Full Android developemement support IDE since 1.5 SDK up to date.
+		+ [Idea supports Android](http://www.jetbrains.com/idea/webhelp/android.html) - Full Android developemement support IDE since 1.5 SDK up to date.
 		+ [Sublime Style Multiple Selection](http://blog.jetbrains.com/idea/2014/03/intellij-idea-13-1-rc-introduces-sublime-text-style-multiple-selections/) - Describes how to edit several lines of code simultainiously.
-	+ [Android Studio](https://developer.android.com/sdk/installing/studio.html) - Android dev IDE. Now is in BETA. But it is positioned by Google as main tool. Based on IntelliJ IDEA.
+	+ [Android Studio](https://developer.android.com/sdk/installing/studio.html) - Android dev IDE. Now is in BETA. But it is positioned by Google as a main tool. Eclipse killer app. Based on IntelliJ IDEA.
 		+ [Recent Changes](http://tools.android.com/recent) - Recent news about android developer tools
 + Documents and Tutorials
 	+ Documents
