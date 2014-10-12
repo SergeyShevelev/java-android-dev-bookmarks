@@ -24,7 +24,7 @@
 		+ [Freejavaguide](http://www.freejavaguide.com/)
 		+ [Jguru](http://www.jguru.com/)
 		+ [EclipseSource](http://eclipsesource.com/en/home/)
-		+ [Java in one day](http://www.paradise.caltech.edu/cook/workshop/java/Overview.html)
+		+ [Java in one day](http://www.paradise.caltech.edu/cook/Workshop/Java/Overview.html)
 + Frameworks and Libraries
 	+ Library
 		+ [SWT Online Samples](http://www.eclipse.org/swt/snippets/)
